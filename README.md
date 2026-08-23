@@ -14,7 +14,7 @@ Retropuzz is a jigsaw puzzle game built with HTML.
 
 ## Running it
 - There is nothing to install!
-- To open the HTML for the game, click [here](retropuzz.html) or click [here!](https://vd-sh.github.io/retropuzz/)
+- To open the HTML for the game, click [here](retropuzz.html) or click [here](https://vd-sh.github.io/retropuzz/) to play in the browser!
 - That's it!
 
 ## Tech
