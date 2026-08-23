@@ -10,11 +10,11 @@ Retropuzz is a jigsaw puzzle game built with HTML.
 - Drag pieces around freely - swap two pieces
 - Timer & move counter, starts once you hit Start (not the second you touch a piece)
 - Confetti & a random "you did it" quote on win (there's like 120+ of these, all different, none of them say "Congratulations!" because that's boring, lol)
-- A "show it off" button that generates a downloadable screenshot of your solved puzzle + your time — built with plain canvas, no screenshot library, so it doesn't depend on anything external. Everything's local. Your image never leaves your browser.
+- A "show it off" clickable that generates a downloadable screenshot of your solved puzzle + your time — built with plain canvas, no screenshot library, so it doesn't depend on anything external. Everything is local. Your image never leaves your browser.
 
 ## Running it
 - There is nothing to install!
-- Just open retropuzz.html (here in the repo) or click [here!](retropuzz.html)
+- Just open retropuzz.html (in the repo) or click [here!](retropuzz.html)
 - That's it!
 
 ## Tech
