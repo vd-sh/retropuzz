@@ -14,7 +14,7 @@ Retropuzz is a jigsaw puzzle game built with HTML.
 
 ## Running it
 - There is nothing to install!
-- Just open retropuzz.html (in the repo) or click [here!](retropuzz.html)
+- To open the HTML for the game, click [here](retropuzz.html) or click [here!](https://vd-sh.github.io/retropuzz/)
 - That's it!
 
 ## Tech
@@ -33,5 +33,5 @@ Single HTML file. JS, no frameworks, no npm, no build tooling. CSS does the pixe
 
 ## Notes:
 - not trying to reinvent the jigsaw puzzle here, just wanted something that felt fun actually to use
-- this was my very first software game i built, as i am more of a hardware guy
-- make sure see my other projects [cookie cutters](https://github.com/vd-sh/cookie-cutters), [key rings](https://github.com/vd-sh/key-rings), [mp3 player](https://github.com/vd-sh/mp3-player) i did until now or visit my [profile](https://github.com/vd-sh) to see all projects :)
+- this was the very first software game I built, as I am more of a hardware guy
+- make sure see my other projects [cookie cutters](https://github.com/vd-sh/cookie-cutters), [key rings](https://github.com/vd-sh/key-rings), [mp3 player](https://github.com/vd-sh/mp3-player) I did until now or visit my [profile](https://github.com/vd-sh) to see all projects :)
