@@ -1,6 +1,8 @@
 # retropuzz
 Retropuzz is a jigsaw puzzle game built with HTML.
 
+![Screebshot of Retropuzz](Screenshot-2026-08-30-152003.png)
+
 ## About
 - This is a little browser-based jigsaw puzzle game with a retro pixel-art look. Upload any photo; it gets sliced into a grid, shuffled, and you drag the pieces back into place. That's basically it; no backend, no build step, no accounts. Just open the HTML file and play.
 - This is mostly made for fun and to mess around with drag-and-drop stuff.
@@ -32,6 +34,6 @@ Single HTML file. JS, no frameworks, no npm, no build tooling. CSS does the pixe
 - Sound effects
 
 ## Notes:
-- not trying to reinvent the jigsaw puzzle here, just wanted something that felt fun actually to use
-- this was the very first software game I built, as I am more of a hardware guy
-- make sure see my other projects [cookie cutters](https://github.com/vd-sh/cookie-cutters), [key rings](https://github.com/vd-sh/key-rings), [mp3 player](https://github.com/vd-sh/mp3-player) I did until now or visit my [profile](https://github.com/vd-sh) to see all projects :)
+- Not trying to reinvent the jigsaw puzzle here, just wanted something that felt fun actually to use!
+- This was the very first software game I built
+- Make sure see my other projects [cookie cutters](https://github.com/vd-sh/cookie-cutters), [key rings](https://github.com/vd-sh/key-rings), [mp3 player](https://github.com/vd-sh/mp3-player) I did until now or visit my [profile](https://github.com/vd-sh) to see all projects :)
