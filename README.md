@@ -1,7 +1,7 @@
 # retropuzz
 Retropuzz is a jigsaw puzzle game built with HTML.
 
-![Screebshot of Retropuzz](Screenshot-2026-08-30-152003.png)
+![Screebshot of Retropuzz](Assets/Screenshot-2026-08-30-152003.png)
 
 ## About
 - This is a little browser-based jigsaw puzzle game with a retro pixel-art look. Upload any photo; it gets sliced into a grid, shuffled, and you drag the pieces back into place. That's basically it; no backend, no build step, no accounts. Just open the HTML file and play.
@@ -16,8 +16,8 @@ Retropuzz is a jigsaw puzzle game built with HTML.
 
 ## Running it
 - There is nothing to install!
-- To open the HTML for the game click [here](retropuzz.html) or click [here](https://vd-sh.github.io/retropuzz/retropuzz.html) to play in the browser!
-- That's it!
+- To open the HTML for the game, click [here](retropuzz.html) or click [here](https://vd-sh.github.io/retropuzz/retropuzz.html) to play directly in your browser!
+- That's it! Go win!
 
 ## Tech
 Single HTML file. JS, no frameworks, no npm, no build tooling. CSS does the pixel-art look (custom properties & image-rendering: pixelated + a chunky retro font from Google Fonts). Everything's self-contained on purpose.
@@ -36,4 +36,4 @@ Single HTML file. JS, no frameworks, no npm, no build tooling. CSS does the pixe
 ## Notes:
 - Not trying to reinvent the jigsaw puzzle here, just wanted something that felt fun actually to use!
 - This was the very first software game I built
-- Make sure see my other projects [cookie cutters](https://github.com/vd-sh/cookie-cutters), [key rings](https://github.com/vd-sh/key-rings), [mp3 player](https://github.com/vd-sh/mp3-player) I did until now or visit my [profile](https://github.com/vd-sh) to see all projects :)
+- Make sure to see my other projects like [CSV it](https://github.com/vd-sh/csv-it), [FuseRing- Key rings](https://github.com/vd-sh/key-rings), [BakeBuild- Cookie Cutters](https://github.com/vd-sh/cookie-cutters), [Stardance- MP3 Player](https://github.com/vd-sh/mp3-player) I did until now or visit my [profile](https://github.com/vd-sh) to see latest projects :)
